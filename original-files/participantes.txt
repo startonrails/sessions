@@ -1,0 +1,25 @@
+﻿StartOnRails
+
+
+Os participantes foram chegando praticamente todos ao meamo tempo.
+
+
+Nenhum deles possuia o ambiente instalado.
+
+
+Alguns vieram sem maquina. Cedemos algumas nossas para treino. O ultimo o chegar veio apenas em tempo para conhecer o encontro e seu potencial.
+
+
+Num batepapo com alguns delea, mostrei alguns aspectos do Rails. Eles se interessaram por questões de i18n e localization. Mostrei como fizemos em nosso blog, mostrando, inclusive o banco de dados e sua eatrutura com a auxilio da ferramenra rbDB, que será o foco do proximo ForkInRails.
+
+
+Nao chegamos a criar nenhuma aplicacao. Quando todos tinham o ambiente instalado ja nao restava mais tempo para que uma app fosse iniciada. Explicamos a estrutura de uma app Rails.
+
+
+Esperamos no proximo StartOnRails que todos possam retornar.
+
+
+A aplicacao que pretendemos conduzi-los a fazer sera o blog do proprio encontro.
+
+
+Ate la

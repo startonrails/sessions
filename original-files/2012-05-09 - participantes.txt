@@ -1,0 +1,29 @@
+﻿StartOnRails 09/05/2012
+
+
+Estiveram presentes @fernando_comf (que não pode ficar mais do que uma hora), @pichoteweb e @vivocah. Cedemos uma máquina nossa para o Ivan.
+
+
+Os 2 que participaram já tinham o ambiente com o RVM e Ruby 1.9.3, mas o mesmo problema do RVM com o Gnome Terminal, descrito no post da ediçao anterior do evento ocorreu.
+
+
+Criei o projeto do blog para do evento no Github. Orientamos os participantes a criar e configurar sua chave SSH e a fazer as configurações iniciais do Git.
+
+
+Ambos fizeram o clone do repositório. O pichote ficou de piloto na criação da aplicaçao.
+
+
+Nada alem de ignorar alguns arquivos foi feito, mesmo assim, foi feito push da aplicação vazia para o Github.
+
+
+A @vivocah teve problemas de dependência em sua máquina e por isto nao foi possível ter a aplicação rodando em sua máquina. Já o pichote viu pela primeira vez a página padrão da aplicação vazia.
+
+
+Uma coisa legal de todos os eventos, sejam os da [:koshtech], @RubyOnRio e outros, é a troca de informações. As experiencias de cada um acrescentam muito. Sejam elas de qualquer area, até mesmo semser de TI. Batemos um papo meio rápido enquanto sguardavamos o Gem Bundler instalar tudo. Duas coisas focaram evidentes:
+
+
+1) Vida de quem trabalha no Suporte é tensa, assim o diga a @vivocah;
+2) Vida de desenvolvedor que depende do suporte de determinadas empresas de hospedagem não é menos tensa.
+
+
+Programamos para o proximo evento fazer o planejamento do blog e codificar algo.
